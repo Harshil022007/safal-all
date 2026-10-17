@@ -1,0 +1,11 @@
+# Old Git history backup
+.git-old/
+
+# Large files
+SafalCRM.zip
+Safal B2B/Safal-Cosmetics/src/assets/images/AdobeStock_489256751.mov
+
+# Nested Git repository metadata
+SafalCRM/SafalCRM/.git/
+
+SafalCRM/SafalCRM/.git-backup/
